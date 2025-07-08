@@ -8,14 +8,14 @@ A simple object-oriented Python project that models an online bookstore with dif
 
 ## Features
 
-* ✅ **PaperBook**: Has stock, can be shipped to a physical address.
-* ✅ **EBook**: Has a filetype, can be sent via email.
-* ✅ **ShowcaseBook**: Not for sale, just a display item.
-* ✅ Add books with details: ISBN, title, author, year, price, quantity.
-* ✅ Remove outdated books (based on a maximum age in years).
-* ✅ Purchase a book (quantity, email, address required).
-* ✅ Simulated mail and shipping services.
-* ✅ Modular and easily extensible (can add more book types with minimal changes).
+*  **PaperBook**: Has stock, can be shipped to a physical address.
+*  **EBook**: Has a filetype, can be sent via email.
+*  **ShowcaseBook**: Not for sale, just a display item.
+*  Add books with details: ISBN, title, author, year, price, quantity.
+*  Remove outdated books (based on a maximum age in years).
+*  Purchase a book (quantity, email, address required).
+*  Simulated mail and shipping services.
+*  Modular and easily extensible (can add more book types with minimal changes).
 
 ---
 
