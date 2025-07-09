@@ -67,6 +67,8 @@ Quantum Book Store: Showcase books are not for sale
 | 333  | Nahj al-Balagha      | Imam Ali                      | Showcase  | 1998 | 0.0   | 0   |
 
 ---
+<img width="495" alt="Screenshot 2025-07-09 at 5 00 41 PM" src="https://github.com/user-attachments/assets/3aa32b02-b244-4a8a-ad67-44602957984f" />
+
 
 ## Notes
 
